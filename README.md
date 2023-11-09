@@ -9,7 +9,7 @@ I'm Vijayanand, a passionate and dedicated software engineer with a love for all
 - Cloud: `Azure`
 - Tools: `Visual Studio, VisualStudio Code, SQL Management Studio`
 - Databases: `SQL, Cosmos DB`
-- Other Skills: ` Azure PaaS - AKS , web apps, containers, creating CI/CD, Azure DevOps/ GitHub actions,Terraform/ARM/Bicep.`
+- Other Skills: ` Azure PaaS - Functions, AKS , web apps, containers, creating CI/CD, Azure DevOps/ GitHub actions,Terraform/ARM/Bicep.`
 
 <!--
 **vj-msft/vj-msft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
