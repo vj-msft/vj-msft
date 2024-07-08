@@ -11,12 +11,13 @@ I'm Vijayanand, a passionate and dedicated software engineer with a love for all
 - Databases: `SQL, Cosmos DB`
 - Other Skills: ` Azure PaaS - Functions, AKS , web apps, containers, creating CI/CD, Azure DevOps/ GitHub actions,Terraform/ARM/Bicep.`
 
+I’m currently working on delivery custom AI applications to customer using Azure AI services and other PaaS offerings from azure
 <!--
 **vj-msft/vj-msft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on delivery custom AI applications to customer using Azure AI services
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
