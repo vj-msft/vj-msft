@@ -2,10 +2,10 @@
 
 Hello, fellow developers and curious minds! 👋
 
-I'm Vijayanand, a passionate and dedicated software engineer with a love for all technology. I believe in the power of technology to shape the future and solve real-world problems. My journey in the world of programming has been an exciting one, and I'm constantly seeking opportunities to learn, grow, and collaborate.
+I'm Vijayanand, a passionate and dedicated GenAI Fullstack software engineer with a love for all technology. I believe in the power of technology to shape the future and solve real-world problems. My journey in the world of programming has been an exciting one, and I'm constantly seeking opportunities to learn, grow, and collaborate.
 
 ### My Tech Stack
-- Languages: `c#,Javascript,Typescript`
+- Languages: `c#,Javascript,Typescript, python`
 - Cloud: `Azure`
 - Tools: `Visual Studio, VisualStudio Code, SQL Management Studio`
 - Databases: `SQL, Cosmos DB`
